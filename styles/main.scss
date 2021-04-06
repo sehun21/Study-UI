@@ -1,6 +1,8 @@
+$font-main: 'Noto Sans KR', sans-serif;
 @import './base/fonts';
-@import './base/normalize';
+@import "./base/nomalize";
 @import './base/reset';
+
 
 p {
   color: #000;
