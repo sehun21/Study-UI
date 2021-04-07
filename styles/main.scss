@@ -1,14 +1,10 @@
 @import './constants/typography';
 @import './constants/colors';
+
 @import './base/fonts';
 @import "./base/nomalize";
 @import './base/reset';
 
+@import './layouts/grids';
 
-p {
-  color: #000;
-}
 
-* {
-  font-family: 'Noto Sans KR', sans-serif;
-}
