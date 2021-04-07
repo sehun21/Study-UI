@@ -104,5 +104,6 @@ dist
 .tern-port
 
 # Etc.
+.vscode
 .DS_Store
 style.css.map
